@@ -7,7 +7,7 @@
 ###############################################################################
 
 # name of this mud
-name : 笑傲江湖
+name : 金庸小棧
 
 # port number to accept users on
 port number : 6666
